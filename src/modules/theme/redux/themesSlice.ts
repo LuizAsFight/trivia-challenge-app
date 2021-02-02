@@ -10,7 +10,7 @@ export interface ThemesState {
 export const keyName = 'themes';
 
 const themesInitialState: ThemesState = {
-  theme: 'light',
+  theme: 'dark',
 };
 
 const themes = createSlice({
