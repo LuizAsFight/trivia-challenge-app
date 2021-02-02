@@ -8,4 +8,7 @@ node_modules/**/*
 *.svg
 *.png
 *.lock
+*.ico
+public/*
+README.md
 .*
